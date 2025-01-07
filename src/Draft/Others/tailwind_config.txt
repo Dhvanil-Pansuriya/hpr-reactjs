@@ -1,0 +1,31 @@
+
+Currently not in use....(Just for information)
+
+// tailwind.config.js
+// module.exports = {
+//   content: ['./src/**/*.{js,jsx,ts,tsx,html}'],
+//   theme: {
+//     extend: {
+//       animation: {
+//         'fade-up': 'fadeUp 1s ease-out',
+//       },
+//       keyframes: {
+//         fadeUp: {
+//           '0%': { opacity: '0', transform: 'translateY(20px)' },
+//           '100%': { opacity: '1', transform: 'translateY(0)' },
+//         },
+//       },
+//     },
+//   },
+//   plugins: [
+//     require('tailwindcss-animate'),
+//   ],
+// };
+
+// Theme - 1
+// background: "#8B4513",
+// "main-background": "#F5F5DC",
+// "background-light": "#FAFAD2",
+// primary: "#228B22",
+// "primary-light": "#FFFFF0",
+// secondary: "#4B3621"
