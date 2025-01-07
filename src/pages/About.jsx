@@ -3,13 +3,13 @@ import { motion } from 'framer-motion'
 import Footer from '../utils/Footer'
 import GotoTopBtn from "../utils/GotoTopBtn"
 import FloatingButton from '../utils/FloatingButton'
-import ImageSlider from '../utils/ImageSLider'
+import ImageSlider from '../utils/ImageSlider';
 import img_success_story from '../assets/about/img_success_story.png'
 import img_innovation from '../assets/about/img_innovation.png'
 import img_business_integrity from '../assets/about/img_business_integrity.png'
 import img_excellence from '../assets/about/img_excellence.png'
 
-const About = () => {
+const About = () => {   
 
     useEffect(() => {
         window.scrollTo(0, 0)
